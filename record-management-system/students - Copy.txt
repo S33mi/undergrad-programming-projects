@@ -1,0 +1,19 @@
+6
+BITF12M706 Eric Jiang
+5
+3.7 4 F 2 2.3
+BSEF12A402 Ethan He
+3
+3.3 3 1.7
+BCSF12M200 Magnus Carlsen
+4
+F 2.3 3.7 4
+BITF12A238 Abraham Lincoln 
+6
+3.3 3.2 3 4 F 3.7
+BSEF12M557 Sawyer Merrit
+4
+3 4 2.3 3.7
+BSEF12M345 Nikola Tesla
+5
+3.7 F 2.7 4 3.5

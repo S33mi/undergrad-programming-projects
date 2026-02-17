@@ -48,9 +48,9 @@ Technologies: C++, OOP (classes for Card/Deck/Pile/Game), console I/O
 
 ### 3. Airline Reservation System - Frontend (HTML/CSS/JS)
 
-Full airline ticket booking/reservation system implemented in two versions.
+Full airline ticket booking/reservation system complete frontend (which was later on implemented in two versions for web application c#/.net,java).
 
-**HTML/CSS**
+**HTML/CSS** (Front end version)
 
 
 Features (common): User registration/login, flight search, booking, cancellation, Home, About, Contact, admin panel.
